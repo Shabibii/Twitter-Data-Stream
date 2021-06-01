@@ -6,10 +6,10 @@ from kafka import KafkaProducer
 from tweepy import API, OAuthHandler, Stream, StreamListener
 
 # Enter twitter developer account keys
-consumer_key = 'dtfR91bG6l364jYHzNQmCtpKy'
-consumer_secret = '6V7JjG9oTmuk5Bx9pDklPAGOm80c2fjmeIN4QgEzSkNmRapLOY'
-access_token = '1252194626179604480-9pN09NR2AcleDevPNZCCFlG3MaaLrK'
-access_token_secret = 'Xj70fFDOHuW9ttuvPGNX3PEAo5DjvXtJSRg7hCmnJyXOM'
+consumer_key = 'foo'
+consumer_secret = 'foo'
+access_token = 'foo'
+access_token_secret = 'foo'
 
 # Consumer key authentication(consumer_key,consumer_secret can be collected from our twitter developer profile)
 auth = OAuthHandler(consumer_key, consumer_secret)
