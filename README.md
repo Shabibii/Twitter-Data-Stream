@@ -15,6 +15,7 @@ Now, the application can be executed by opening the command prompt in the direct
   
 In the command prompt, type: python consumer_twitterStream.py
 The program will run and prompt the user for the necessary information to activate certain features.
+NOTE: the streaming time should not be too short, since some features might give errors because of the low amount of data to work with.
 
 After the Word Cloud is presented, the application waits for the user to close down the image window.
 Then, the program prompts the user for another run.
