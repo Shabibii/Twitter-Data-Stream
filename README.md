@@ -1,4 +1,4 @@
-# Twitter_Data_Stream
+# Twitter-Data-Stream
 Finding top trending topics, hashtags and Tweets from a Twitter data stream in the past x minutes
 
 Before running the program, it is important to set up a Kafka and Zookeeper broker which will run in the background.
